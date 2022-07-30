@@ -1,7 +1,7 @@
 # Desafio DDD patterns
 
-O objetivo do desafio é mostrar na prática como fazer a modelagem tática de repositórios.
-Nesse desafio implementei o **OrderRepository**.
+O objetivo do desafio é mostrar na prática como fazer a modelagem tática de eventos de domínio.
+Nesse desafio implementei os eventos de **CustomerCreatedEvent** e **CustomerAddressChangedEvent**.
 
 Instruções para execução dos testes
 
